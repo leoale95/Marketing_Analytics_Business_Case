@@ -45,7 +45,7 @@ The analysis highlights critical trends and actionable insights for improving ma
 - ![
 Conversion Rates Analysis
 ](
-Markdown/Conversion%20rates%20analysis.png
+Markdown/Conversion%20rate%20analysis.png
 )
 
 ### Customer Engagement
@@ -55,7 +55,7 @@ Markdown/Conversion%20rates%20analysis.png
 ![
 Social Media Analysis
 ](
-Markdown/Social%20media%20analysis.png
+Markdown/social%20media%20analysis.png
 )
 
 ### Customer Feedback
@@ -64,7 +64,7 @@ Markdown/Social%20media%20analysis.png
 ![
 Customer Review Analysis
 ](
-Markdown/Customer%20review%20analysis.png
+Markdown/Customer%20reviews%20analysis.png
 )
 ---
 
