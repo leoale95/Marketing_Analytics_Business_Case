@@ -14,6 +14,12 @@ ShopEasy, an online retail business, is facing multiple challenges despite launc
 - **Customer Feedback Score:** Average customer review ratings.
 
 ---
+## Data Structure
+
+The following diagram illustrates the data structure used in the project:
+
+![Model View](Markdown/Model%20View.png)
+--- 
 
 ## Executive Summary
 The analysis highlights critical trends and actionable insights for improving marketing performance at ShopEasy:
@@ -36,16 +42,30 @@ The analysis highlights critical trends and actionable insights for improving ma
 - **General Trend:** Conversion rates varied significantly, with strong seasonal performance in January (45.5%) and dips in May (5.4%). 
 - **Top-Performing Products:** Ski Boots achieved a remarkable 150% conversion in January, driven by seasonal demand and effective marketing.
 - **Low-Performing Periods:** May's low conversions indicate a need for enhanced promotional strategies during off-peak months.
+- ![
+Conversion Rates Analysis
+](
+Markdown/Conversion%20rates%20analysis.png
+)
 
 ### Customer Engagement
 - **Declining Views:** Engagement peaked in February and July but declined steadily from August onward, suggesting reduced audience interest.
 - **Content Performance:** Blog content outperformed others, particularly in April and July, while social media and video content showed consistent but lower engagement.
 - **Click-Through Rates:** At 15.37%, engaged users are interacting effectively, despite lower overall engagement rates.
+![
+Social Media Analysis
+](
+Markdown/Social%20media%20analysis.png
+)
 
 ### Customer Feedback
 - **Ratings Distribution:** Positive ratings dominate, with 275 reviews reflecting high satisfaction. However, 26 one-star reviews and 57 two-star reviews highlight areas for improvement.
 - **Sentiment Analysis:** Mixed and negative sentiments suggest specific pain points. Addressing these could shift mixed experiences toward positive ones and boost the average score toward the 4.0 target.
-
+![
+Customer Review Analysis
+](
+Markdown/Customer%20review%20analysis.png
+)
 ---
 
 ## Recommendations
