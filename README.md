@@ -20,6 +20,8 @@ The analysis highlights critical trends and actionable insights for improving ma
 1. **Increase Conversion Rates:** Focus on high-performing products (e.g., Ski Boots, Kayaks) and optimize campaigns during low-performing months (e.g., May).
 2. **Enhance Customer Engagement:** Revamp content strategies to address declining views and low interaction rates. Introduce engaging formats like interactive videos and optimize call-to-action placement.
 3. **Improve Customer Feedback Scores:** Address concerns from mixed and negative reviews to improve overall ratings and boost customer satisfaction.
+![Overview Analysis](Markdown/Overview%20analysis.png)
+
 
 **Key Insights:**
 - Seasonal peaks, such as January and July, provide opportunities for targeted marketing efforts.
